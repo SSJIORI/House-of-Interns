@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_individual_features",
+  "info": {
+    "displayName": "Individual Feature"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "type": "string",
+      "required": true
+    },
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

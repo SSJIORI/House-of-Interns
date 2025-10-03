@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_elements_navigation_items",
+  "info": {
+    "displayName": "Navigation Items"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "required": true
+    },
+    "sectionId": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_sections_individual_services",
+  "info": {
+    "displayName": "Individual Service"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "type": "string",
+      "required": true
+    },
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    },
+    "buttonText": {
+      "type": "string",
+      "required": false
+    }
+  },
+  "config": {}
+}
